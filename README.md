@@ -170,12 +170,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 
 ## Additional Resources
 
-- **[CustomerSuccessBox Blog](https://customersuccessbox.com/blog/)** - Best practices in customer success.
-- **[Customer Success Association](https://customersuccessassociation.com/)** - Professional organization.
-- **[Customer Success Network](https://customersuccessnetwork.com/)** - Community for knowledge sharing.
-- **[Practical CSM](https://practicalcsm.com/)** - Training and certification.
-- **[SuccessHACKER](https://successcoaching.co/)** - Training and consulting for teams.
-- **[CS Insider](https://www.csinsider.co/resources)** - Articles for professionals.
+- **[Gain Grow Retain](https://gaingrowretain.com/) - Podcasts, community, resource lists, etc.
 - **[HubSpot Resources](https://www.hubspot.com/resources/customer-success)** - Guides and templates.
 - **[Catalyst Blog](https://catalyst.io/blog)** - Insights on success management.
 
