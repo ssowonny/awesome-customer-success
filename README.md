@@ -7,6 +7,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 ## Table of Contents
 
 - [Customer Success Platforms](#customer-success-platforms)
+- [Customer Intelligence and Analytics](#customer-intelligence-and-analytics)
 - [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
 - [Customer Support and Helpdesk Software](#customer-support-and-helpdesk-software)
 - [Onboarding and Training Tools](#onboarding-and-training-tools)
@@ -37,6 +38,17 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[UserIQ](https://useriq.com/)** - Offers insights and engagement tools for scaling success efforts.
 - **[Custify](https://www.custify.com/)** - All-in-one platform for SaaS businesses to reduce churn and increase lifetime value.
 - **[SmartKarrot](https://www.smartkarrot.com/)** - AI-powered platform with sentiment analysis and health scoring.
+- **[Vitally](https://www.vitally.io/)** - AI-driven customer success automation and insights platform with powerful analytics.
+- **[CustomerSuccessBox](https://customersuccessbox.com/)** - B2B SaaS-focused customer success platform with health scoring and automation.
+
+## Customer Intelligence and Analytics
+
+- **[Variance](https://www.variance.com/)** - Product-led revenue intelligence platform for data-driven customer success.
+- **[Catalyst](https://www.catalyst.io/)** - Modern customer success intelligence platform with workflow automation.
+- **[Correlated](https://www.correlated.com/)** - Product-led revenue insights and signal detection platform.
+- **[Pocus](https://www.pocus.com/)** - Product-led sales intelligence tool for identifying opportunities.
+- **[Involve.ai](https://www.involve.ai/)** - AI-powered customer intelligence platform for predictive insights.
+- **[Toplyne](https://www.toplyne.io/)** - Platform for identifying and converting product qualified leads.
 
 ## Customer Relationship Management (CRM)
 
@@ -63,6 +75,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Userpilot](https://userpilot.com/)** - Improves user experience through onboarding and adoption.
 - **[UserGuiding](https://userguiding.com/)** - Enhances engagement with onboarding and walkthroughs.
 - **[eWebinar](https://ewebinar.com/)** - Automated webinars for scalable onboarding and training.
+- **[Rocketlane](https://www.rocketlane.com/)** - Purpose-built for customer onboarding and project management.
 
 ## Customer Feedback and Survey Tools
 
@@ -114,6 +127,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[ProfitWell Retain](https://www.profitwell.com/retain)** - Reduces churn and failed payments.
 - **[Strikedeck](https://strikedeck.com/)** - Automates success to reduce churn.
 - **[Baremetrics](https://baremetrics.com/)** - Subscription analytics including churn tracking.
+- **[RevLifter](https://revlifter.com/)** - Personalized customer retention solutions.
 
 ## Learning Management Systems (LMS)
 
