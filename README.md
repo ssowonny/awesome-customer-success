@@ -23,7 +23,6 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - [Community Platforms](#community-platforms)
 - [Customer Journey Mapping Tools](#customer-journey-mapping-tools)
 - [Integration Platforms](#integration-platforms)
-- [Design and Content Creation Tools](#design-and-content-creation-tools)
 - [Additional Resources](#additional-resources)
 
 ---
@@ -168,10 +167,6 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[MuleSoft](https://www.mulesoft.com/)** - Connects applications through integration.
 - **[Workato](https://www.workato.com/)** - Enterprise automation platform.
 - **[Make (formerly Integromat)](https://www.make.com/)** - Automation for apps and services.
-
-## Design and Content Creation Tools
-
-- **[Canva](https://www.canva.com/)** - Graphic design for materials and presentations.
 
 ## Additional Resources
 
