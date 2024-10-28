@@ -187,6 +187,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Gain Grow Retain](https://gaingrowretain.com/)** - Podcasts, community, resource lists, etc.
 - **[HubSpot Resources](https://www.hubspot.com/resources/customer-success)** - Guides and templates.
 - **[Catalyst Blog](https://catalyst.io/blog)** - Insights on success management.
+- **[The CS Cafe Newsletter](https://www.thecscafe.com)** - Weekly Customer Success Newsletter by Hakan Ozturk.
 
 ---
 
