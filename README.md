@@ -181,6 +181,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[MuleSoft](https://www.mulesoft.com/)** - Connects applications through integration.
 - **[Workato](https://www.workato.com/)** - Enterprise automation platform.
 - **[Make (formerly Integromat)](https://www.make.com/)** - Automation for apps and services.
+- **[Runbear](https://www.runbear.io/)** - Integrate custom GPTs into communication platforms like Slack, Teams, HubSpot, and more—in 10 minutes without coding.
 
 ## Additional Resources
 
